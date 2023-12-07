@@ -61,9 +61,6 @@ I'm a data science enthusiast and a passionate learner. I have a master's degree
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
 
