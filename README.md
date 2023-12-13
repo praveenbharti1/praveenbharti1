@@ -29,6 +29,7 @@ I'm a data science enthusiast and a passionate learner. I have a master's degree
 - Data Science Foundation, IABAC 📚
 - Certified Data Scientist, Nasscom 🎓
 - Certified Data Scientist, Datamites 🎖️
+- Certification course in Data scientist (BCCDS01), JainX University
 
 
 
