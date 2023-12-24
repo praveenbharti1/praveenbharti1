@@ -5,7 +5,7 @@ I'm a data science enthusiast and a passionate learner. I have a master's degree
 
 ## 🛠️ My core technical skills
 
-- Python 🐍                                                           <img align="right" height="200" src="https://cdn.dribbble.com/users/614757/screenshots/1655413/media/5c38079a1a39254d015d4021cd31511f.gif"  />
+- Python 🐍   <img align="right" height="200" src="https://cdn.dribbble.com/users/614757/screenshots/1655413/media/5c38079a1a39254d015d4021cd31511f.gif"  />
 - Visualisation tools like matplotlib, seaborn 📊
 - Statistics 📈
 - Machine Learning Algorithms 🤖
